@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @2358192010
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in play Genshin Impact
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me e-mail  2358192010@QQ.COM
+
+#LOL#
 
 <!---
 2358192010/2358192010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
